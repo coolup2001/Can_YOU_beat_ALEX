@@ -47,8 +47,6 @@ root.maxsize(1660, 960)
 #Icon
 root.wm_iconbitmap("favicon.ico")
 
-# root.wm_iconbitmap("img.ico")
-
 # Menubar
 MenuBar = Menu(root)
 
@@ -72,7 +70,7 @@ def winning_music():
     """
     Plays the winning music.
     """
-    win_music  = ["anime wow.mp3", "bruhh.mp3"]
+    win_music  = ["anime wow.mp3", "anime wow2.mp3"]
     try:
         playsound.playsound(random.choice(win_music))
     except Exception as e:
@@ -82,7 +80,7 @@ def losing_music():
     """
     Plays the losing music.
     """
-    lose_music  = ["Nope.mp3", "Fart.mp3"]
+    lose_music  = ["bruh.mp3","bruh2.mp3"]
     try:
        playsound.playsound(random.choice(lose_music))
     except Exception as e:

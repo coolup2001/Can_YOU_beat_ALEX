@@ -10,4 +10,8 @@ To install modules and packages hold shift key and right click click on open pow
 
 To run the file hold shift key and right click click on open powershell window here type "Can_YOU_beat_ALEX.py" and enjoy the game.
 
+To run by just plug and play method download this folder than run the Can_YOU_beat_ALEX.exe file(Turn off your antivirus before downloading)
+link: https://drive.google.com/drive/folders/1zqjl5m1T266WobEUZOzEEkzVK-0qKmO9?usp=sharing
+
+
 Developed by Upendra Gupta

@@ -1,0 +1,9 @@
+﻿tk==0.1.0
+Pillow==8.2.0
+PyAutoGUI==0.9.52
+PyGetWindow==0.0.9
+PyMsgBox==1.0.9
+random2==1.0.1
+threaded==4.1.0
+playsound==1.2.2
+playsound
